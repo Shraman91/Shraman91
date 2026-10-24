@@ -1,16 +1,108 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**Shraman91/Shraman91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://i.pinimg.com/736x/59/49/31/594931621adcce17633e8b2fdcd98a04.jpg" width="100%" alt="Ken Kaneki — Tokyo Ghoul inspired dark banner" />
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # SHRAMAN DESHPANDE
+
+  *“Veni, Vidi, Vici”*
+
+  [GitHub](https://github.com/Shraman91) · [LinkedIn](linkedin.com/in/shraman-deshpande-79984a336)
+
+</div>
+
+---
+
+## ABOUT ME
+
+Computer engineering student exploring the depths of systems engineering, backend development, cybersecurity, and AI-powered developer tools.
+
+I enjoy understanding what happens beneath the abstraction — from low-level systems and concurrent execution to distributed infrastructure and intelligent software.
+
+My focus is on building reliable, scalable, and meaningful software while continuously sharpening my engineering fundamentals.
+
+- **Primary interests:** Systems engineering, backend infrastructure, cybersecurity, AI tooling
+- **Languages:** Rust, C++, Python, TypeScript, JavaScript
+- **Current direction:** Systems programming, distributed systems, open source
+- **Philosophy:** Understand the system. Question the abstraction. Build with intent.
+
+> 人はいつだって、何かを失って大人になる。
+
+---
+
+## EXPERTISE
+
+| Discipline | Areas of focus |
+|:--|:--|
+| Systems Engineering | Systems programming, concurrency, networking, resource management |
+| Backend Engineering | API design, asynchronous services, distributed systems, data stores |
+| Programming Languages | Rust, C++, Python, TypeScript, JavaScript |
+| AI Engineering | LLM integration, RAG, local inference, AI developer tooling |
+| Cybersecurity | Cryptography, secure communication, secret management, security fundamentals |
+| Full-Stack Development | Next.js, React, FastAPI, Firebase, modern web architecture |
+| Infrastructure | Docker, Redis, service orchestration, automation |
+| Problem Solving | Data structures, algorithms, debugging, performance analysis |
+
+---
+
+## LANGUAGE COMPOSITION
+
+*The languages that shape my public codebase.*
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraman91&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&langs_count=8" alt="Most used languages in public repositories" />
+
+</div>
+
+---
+
+## CONTRIBUTION RECORD
+
+*Every commit leaves a trace. Every contribution becomes part of the record.*
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shraman91&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&icon_color=ab2636&include_all_commits=true" alt="GitHub contribution and repository statistics" />
+
+</div>
+
+---
+
+## CONSISTENCY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shraman91&hide_border=true&background=0D0D0D&ring=DC3545&fire=DC3545&currStreakLabel=DC3545&sideLabels=D0D0D0&currStreakNum=FFFFFF&sideNums=D0D0D0&dates=777777" alt="GitHub coding streak" />
+
+</div>
+
+---
+
+
+## ACTIVITY LOG
+
+<div align="center">
+
+[![Shraman's GitHub Activity](https://ghchart.rshah.org/dc3545/Shraman91)](https://github.com/Shraman91)
+
+</div>
+
+---
+
+## MOTO
+
+I believe good engineering begins with curiosity and improves through deliberate practice, rigorous debugging, and learning from existing systems.
+
+I am drawn to problems that demand deeper understanding — whether in systems programming, reliable infrastructure, security, or tools that expand what developers can accomplish.
+
+When I'm not coding you can find me getting humbled by Dark Souls, throwing rounds in Valorant, building questionable Minecraft architecture, reading novels, solving cubes, or overanalyzing movies.
+
+**The objective is not merely to make software work, but to understand why it works.**
+
+<div align="center">
+
+[ENTER THE REPOSITORIES](https://github.com/Shraman91?tab=repositories)
+
+</div>
