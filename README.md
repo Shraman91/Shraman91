@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <img src="https://i.pinimg.com/736x/59/49/31/594931621adcce17633e8b2fdcd98a04.jpg" width="100%" alt="Ken Kaneki — Tokyo Ghoul inspired dark banner" />
 
@@ -8,7 +8,7 @@
 
   *“Veni, Vidi, Vici”*
 
-  [GitHub](https://github.com/Shraman91) · [LinkedIn](https://linkedin.com/in/shraman-deshpande-79984a336)
+  [GitHub](https://github.com/Shraman91) · [LinkedIn](linkedin.com/in/shraman-deshpande-79984a336)
 
 </div>
 
@@ -46,17 +46,38 @@ My focus is on building reliable, scalable, and meaningful software while contin
 
 ---
 
-## LIVE GITHUB METRICS
+## LANGUAGE COMPOSITION
 
-*Regenerated automatically every hour by a GitHub Action.*
+*The languages that shape my public codebase.*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shraman91/Shraman91/main/github-metrics.svg" alt="GitHub metrics: languages, activity and repository statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraman91&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&langs_count=8" alt="Most used languages in public repositories" />
 
 </div>
 
 ---
+
+## CONTRIBUTION RECORD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shraman91&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&icon_color=ab2636&include_all_commits=true" alt="GitHub contribution and repository statistics" />
+
+</div>
+
+---
+
+## CONSISTENCY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shraman91&hide_border=true&background=0D0D0D&ring=DC3545&fire=DC3545&currStreakLabel=DC3545&sideLabels=D0D0D0&currStreakNum=FFFFFF&sideNums=D0D0D0&dates=777777" alt="GitHub coding streak" />
+
+</div>
+
+---
+
 
 ## ACTIVITY LOG
 
@@ -68,7 +89,7 @@ My focus is on building reliable, scalable, and meaningful software while contin
 
 ---
 
-## MOTTO
+## MOTO
 
 I believe good engineering begins with curiosity and improves through deliberate practice, rigorous debugging, and learning from existing systems.
 
