@@ -46,28 +46,6 @@ My focus is on building reliable, scalable, and meaningful software while contin
 
 ---
 
-## LANGUAGE COMPOSITION
-
-*The languages that shape my public codebase.*
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraman91&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&langs_count=8" alt="Most used languages in public repositories" />
-
-</div>
-
----
-
-## CONTRIBUTION RECORD
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shraman91&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=dc3545&text_color=d0d0d0&icon_color=ab2636&include_all_commits=true" alt="GitHub contribution and repository statistics" />
-
-</div>
-
----
-
 ## CONSISTENCY
 
 <div align="center">
